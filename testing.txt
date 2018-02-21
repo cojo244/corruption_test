@@ -1,0 +1,10 @@
+#This is my git corruption test
+
+AaaaAAAaaaaAAAAaaaa
+BBBbbbbBBBBBbbbbbBBBbbbBBB
+CCCCCccccCCCCccccCCCCa()()()()
+ACBDEFGHIJKLMNOPQRSTUVWXYZ 
+abcdefghijklmnopqrstuvwxyz
+
+TEST TEST TEST
+#TEST test TEST
